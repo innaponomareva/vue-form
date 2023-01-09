@@ -7,4 +7,7 @@ export const skills: IOption[] = [
   { id: "react", value: "React", name: "skills" },
   { id: "nextjs", value: "NextJS", name: "skills" },
   { id: "nuxtjs", value: "NuxtJS", name: "skills" },
+  { id: "indesign", value: "InDesign", name: "skills" },
+  { id: "photoshop", value: "Photophop", name: "skills" },
+  { id: "figma", value: "Figma", name: "skills" },
 ];
