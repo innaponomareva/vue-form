@@ -1,6 +1,6 @@
 ## 1. Task
 
-Creating a simple Signup Form in Vue3
+Creating a simple Signup Form
 
 ## 2. Stack
 
